@@ -1,1 +1,1 @@
-[![Sakura-Team GitHub stats](https://github-readme-stats.vercel.app/api?username=sakura-teams&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/Sakura-Teams)
+[![Sakura-Team GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakura-Teams&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/Sakura-Teams)
