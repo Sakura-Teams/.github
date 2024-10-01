@@ -2,3 +2,4 @@
 [![AlkaidQWQ GitHub stats](https://github-readme-stats.vercel.app/api?username=AlkaidQWQ&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/AlkaidQWQ)
 [![zszfympx GitHub stats](https://github-readme-stats.vercel.app/api?username=zszfympx&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/zszfympx)
 [![tRollaURa GitHub stats](https://github-readme-stats.vercel.app/api?username=tRollaURa&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/tRollaURa)
+[![Sakura-Teams GitHub profile](https://github-widgetbox.vercel.app/api/profile?username=Sakura-Teams&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Sakura-Teams)
