@@ -4,3 +4,4 @@
 [![zszfympx GitHub stats](https://github-widgetbox.vercel.app/api/profile?username=zszfympx&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/zszfympx)
 [![tRollaURa GitHub stats](https://github-widgetbox.vercel.app/api/profile?username=tRollaURa&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/tRollaURa)
 [![XNLawa GitHub stats](https://github-widgetbox.vercel.app/api/profile?username=XNLawa&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/XNLawa)
+[![Takanashi Hoshino GitHub stats](https://github-widgetbox.vercel.app/api/profile?username=zyyzs&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/zyyzs)
